@@ -1,0 +1,13 @@
+Fonts used in this design:
+
+Font: BodoniXT
+Author: Manfred Klein Fonteria
+Url: http://www.fontsquirrel.com/fonts/bodonixt
+
+Font: Open Sans Condensed
+Author: Ascender Fonts
+Url: http://www.fontsquirrel.com/fonts/open-sans-condensed
+
+Font: Oswald
+Author: Vernon Adams
+Url: http://www.fontsquirrel.com/fonts/oswald
